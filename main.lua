@@ -1,6 +1,6 @@
 local riseoptions = {
-    CustomText = "",
-    Theme = "Rise Blend",
+    CustomText = "Ultimate",
+    Theme = "Rise Cotton Candy",
     RenderToggle = true,
     ShowRenderModules = true,
     NameTags = false,
